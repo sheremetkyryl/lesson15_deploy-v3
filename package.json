@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/sheremetkyryl/lesson15_deploy-v3#readme",
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "parcel": "^2.16.0"
   }
 }
