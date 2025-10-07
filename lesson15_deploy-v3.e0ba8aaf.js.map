@@ -1,0 +1,1 @@
+{"mappings":"ACAA,QAAQ,GAAG,CAAC","sources":["<anon>","src/index.js"],"sourcesContent":["var $35da740d59af89ba$exports = {};\nconsole.log(\"Js work\");\n\n\n//# sourceMappingURL=lesson15_deploy-v3.e0ba8aaf.js.map\n","console.log(\"Js work\")"],"names":["console","log"],"version":3,"file":"lesson15_deploy-v3.e0ba8aaf.js.map"}
