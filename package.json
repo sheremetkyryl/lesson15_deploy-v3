@@ -1,0 +1,24 @@
+{
+  "name": "lesson15_deploy-v3",
+  "version": "1.0.0",
+  "description": "lesson 15 deploy",
+  "type": "module",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url ./",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheremetkyryl/lesson15_deploy-v3.git"
+  },
+  "keywords": [],
+  "author": "Sheremet Kyryl <kruisher@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheremetkyryl/lesson15_deploy-v3/issues"
+  },
+  "homepage": "https://github.com/sheremetkyryl/lesson15_deploy-v3#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
